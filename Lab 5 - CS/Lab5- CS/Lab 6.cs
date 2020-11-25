@@ -27,8 +27,6 @@ namespace Lab5CS
             driver.FindElement(By.Name("search")).SendKeys(Keys.Enter);
             String URL = driver.Url;
             Assert.AreEqual(URL, "https://loving-hermann-e2094b.netlify.app/clothes-jeans.html");
-
-
         }
 
         [Test]

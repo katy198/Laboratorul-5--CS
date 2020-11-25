@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\BDD lab6\\BDD lab6\\BDD lab6.csproj": {}
+    "D:\\lab\\Lab5- CS\\BDD Lab6\\BDD lab6\\BDD lab6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\BDD lab6\\BDD lab6\\BDD lab6.csproj": {
+    "D:\\lab\\Lab5- CS\\BDD Lab6\\BDD lab6\\BDD lab6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\BDD lab6\\BDD lab6\\BDD lab6.csproj",
+        "projectUniqueName": "D:\\lab\\Lab5- CS\\BDD Lab6\\BDD lab6\\BDD lab6.csproj",
         "projectName": "BDD lab6",
-        "projectPath": "C:\\Users\\User\\source\\repos\\BDD lab6\\BDD lab6\\BDD lab6.csproj",
+        "projectPath": "D:\\lab\\Lab5- CS\\BDD Lab6\\BDD lab6\\BDD lab6.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\BDD lab6\\BDD lab6\\obj\\",
+        "outputPath": "D:\\lab\\Lab5- CS\\BDD Lab6\\BDD lab6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
